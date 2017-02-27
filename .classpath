@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/beads.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/beads-io.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/jarjar-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/jl1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/jna.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/mp3spi1.9.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/org-jaudiolibs-audioservers.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/org-jaudiolibs-audioservers-jack.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/org-jaudiolibs-audioservers-javasound.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/org-jaudiolibs-jnajack.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/tritonus_aos-0.3.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/tesab/Documents/beads/library/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
